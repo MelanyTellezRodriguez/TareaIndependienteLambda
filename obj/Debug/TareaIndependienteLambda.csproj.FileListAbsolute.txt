@@ -1,0 +1,7 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\bin\Debug\TareaIndependienteLambda.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\bin\Debug\TareaIndependienteLambda.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\bin\Debug\TareaIndependienteLambda.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\obj\Debug\TareaIndependienteLambda.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\obj\Debug\TareaIndependienteLambda.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\obj\Debug\TareaIndependienteLambda.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaIndependienteLambda\obj\Debug\TareaIndependienteLambda.pdb
